@@ -1,0 +1,23 @@
+{
+  "name": "Angular-BoilerPlate",
+  "homepage": "https://github.com/joellegg/Angular-BoilerPlate",
+  "authors": [
+    "joellegg <joellegg@bellsouth.net>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.1",
+    "angular-route": "^1.6.1",
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7"
+  }
+}
